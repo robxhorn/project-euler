@@ -1,0 +1,13 @@
+{
+  "name": "node-puzzles",
+  "version": "0.0.0",
+  "main": "config/server.js",
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "debug": "~2.2.0",
+    "express": "~4.14.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
